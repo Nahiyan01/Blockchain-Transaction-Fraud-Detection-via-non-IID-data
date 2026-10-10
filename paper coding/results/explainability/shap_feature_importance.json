@@ -1,0 +1,22 @@
+{
+    "Time Diff between first and last (Mins)": 0.10854891130941872,
+    "ERC20 uniq rec contract addr": 0.053793380906188834,
+    "Avg min between received tnx": 0.042379177487499524,
+    "avg val sent": 0.026195225918688777,
+    "ERC20 uniq rec token name": 0.014983280455006145,
+    "ERC20 uniq rec addr": 0.01024945624231687,
+    "min val sent": 0.00939793676274325,
+    "Total ERC20 tnxs": 0.008565901530145295,
+    "max val sent": 0.003868403803689585,
+    "ERC20 uniq sent addr": 0.00340288857056028,
+    "ERC20 min val rec": 0.0014447909359695229,
+    "total Ether sent": 0.0008323775443769654,
+    "Number of Created Contracts": 0.0004848561796055002,
+    "total ether balance": 0.00032313660124256975,
+    "total ether received": 0.00021230145120055988,
+    "ERC20 min val sent": 0.00019929129790072255,
+    "ERC20 max val sent": 0.0001722996053954866,
+    "ERC20 avg val rec": 0.00010508197889600534,
+    "ERC20 max val rec": 5.033309800236431e-05,
+    "ERC20 avg val sent": 4.634376024974736e-05
+}

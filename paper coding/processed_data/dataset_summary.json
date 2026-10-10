@@ -1,0 +1,39 @@
+{
+    "dataset_name": "Ethereum Fraud Detection (Kaggle)",
+    "total_samples": 9841,
+    "num_features": 20,
+    "features": [
+        "ERC20 uniq rec token name",
+        "ERC20 max val sent",
+        "ERC20 avg val sent",
+        "ERC20 min val sent",
+        "ERC20 max val rec",
+        "ERC20 avg val rec",
+        "ERC20 min val rec",
+        "Total ERC20 tnxs",
+        "ERC20 uniq sent addr",
+        "ERC20 uniq rec addr",
+        "total ether balance",
+        "total Ether sent",
+        "total ether received",
+        "min val sent",
+        "max val sent",
+        "avg val sent",
+        "Number of Created Contracts",
+        "ERC20 uniq rec contract addr",
+        "Avg min between received tnx",
+        "Time Diff between first and last (Mins)"
+    ],
+    "target": "FLAG",
+    "train_samples": 7872,
+    "test_samples": 1969,
+    "class_distribution": {
+        "0": 7662,
+        "1": 2179
+    },
+    "class_weights": {
+        "0": 0.6421952492821718,
+        "1": 2.2581459385039007
+    },
+    "scaler": "StandardScaler"
+}

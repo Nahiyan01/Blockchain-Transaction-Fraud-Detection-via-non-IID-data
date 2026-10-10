@@ -1,0 +1,20 @@
+{
+    "model": "2NN",
+    "optimizer": "SGD",
+    "regime": "Centralized",
+    "accuracy": 0.8384966988318944,
+    "precision": 0.5924764890282131,
+    "recall": 0.8669724770642202,
+    "f1_score": 0.7039106145251397,
+    "roc_auc": 0.9386853145179148,
+    "confusion_matrix": [
+        [
+            1273,
+            260
+        ],
+        [
+            58,
+            378
+        ]
+    ]
+}
