@@ -1,0 +1,18 @@
+{
+    "model": "2NN (Optimized, No BatchNorm, Log1p)",
+    "accuracy": 0.9441340782122905,
+    "precision": 0.8273092369477911,
+    "recall": 0.944954128440367,
+    "f1_score": 0.8822269807280514,
+    "roc_auc": 0.9888522834042502,
+    "confusion_matrix": [
+        [
+            1447,
+            86
+        ],
+        [
+            24,
+            412
+        ]
+    ]
+}
