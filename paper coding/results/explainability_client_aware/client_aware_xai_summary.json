@@ -1,0 +1,68 @@
+{
+    "node_13": {
+        "role": "Retail Wallet Node (Normal-Dominant)",
+        "fraud_percentage": 0.0,
+        "top_features": [
+            "Time Diff between first and last (Mins)",
+            "ERC20 uniq rec token name",
+            "ERC20 uniq rec addr",
+            "total Ether sent",
+            "ERC20 min val rec",
+            "ERC20 uniq rec contract addr",
+            "total ether received"
+        ],
+        "top_importances": [
+            0.10081481048874234,
+            0.08099289886844999,
+            0.08011989604682948,
+            0.053720262015367025,
+            0.050742063522559076,
+            0.03612732507882236,
+            0.03549797759914353
+        ]
+    },
+    "node_4": {
+        "role": "Crypto Exchange Node (Mixed-Volume)",
+        "fraud_percentage": 100.0,
+        "top_features": [
+            "ERC20 min val rec",
+            "Time Diff between first and last (Mins)",
+            "ERC20 uniq rec token name",
+            "total Ether sent",
+            "ERC20 uniq rec addr",
+            "total ether received",
+            "ERC20 uniq rec contract addr"
+        ],
+        "top_importances": [
+            0.13155073697573044,
+            0.08844115371046528,
+            0.06169649022976076,
+            0.0592147674074963,
+            0.052842445457359645,
+            0.044847124034094424,
+            0.043929382454246595
+        ]
+    },
+    "node_16": {
+        "role": "Sybil / Phishing Cluster (Fraud-Dominant)",
+        "fraud_percentage": 100.0,
+        "top_features": [
+            "ERC20 min val rec",
+            "ERC20 uniq rec token name",
+            "ERC20 uniq rec addr",
+            "Time Diff between first and last (Mins)",
+            "total Ether sent",
+            "ERC20 uniq rec contract addr",
+            "ERC20 max val sent"
+        ],
+        "top_importances": [
+            0.10597682080268819,
+            0.07436680896150122,
+            0.07022522701554265,
+            0.06857946006434343,
+            0.05407475042520381,
+            0.05211990741671997,
+            0.04795268816554805
+        ]
+    }
+}
